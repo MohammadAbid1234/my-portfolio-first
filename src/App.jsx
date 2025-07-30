@@ -1,7 +1,7 @@
 // import Card from './Card'
 import About from './components/about/about'
 import Footer from './components/footer/Footer'
-import Blog from './components/education/Education'
+import Education from './components/education/Education'
 import Header from './components/header/header'
 import Service from './components/services/service'
 import Experience from './components/Experience/Experiences'
@@ -13,7 +13,7 @@ function App(){
           <Header/>
           <About/>
           <Service/>
-          <Blog/>
+          <Education/>
           <Experience/>
           <Projects/>
           <Contact/>

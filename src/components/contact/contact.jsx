@@ -66,8 +66,9 @@ export default function Contact() {
         </div>
 
         <p className="copyright">
-          &copy; {new Date().getFullYear()} Mohammad Abid Fromuli — All Rights
-          Reserved.
+          &copy;
+          {/* {new Date().getFullYear()} */}
+          2024 Mohammad Abid Fromuli — All Rights Reserved.
         </p>
       </div>
     </footer>
