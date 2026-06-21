@@ -4,7 +4,8 @@ import ExperienceItem from "./ExperienceItem";
 export default function Experience() {
   const experienceData = [
     {
-      date: "Jan 2025 - May 2025",
+      // Jan 2025 - May 2025
+      date: "",
       role: "Frontend Developer",
       description:
         "Developed responsive user interface for computer store e-commerce platform with modern design principles using React.js",
@@ -22,7 +23,7 @@ export default function Experience() {
     //   role: "Bachelor of Computer Science",
     //   description:
     //     "Relevant Coursework: Software Engineering, Database Management Systems, Web Development, Object-Oriented Programming",
-    //   company: "Kabul University"
+    //   company: "Kabul Ufniversity"
     // }
   ];
 
