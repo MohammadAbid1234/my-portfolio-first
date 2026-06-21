@@ -5,7 +5,7 @@ export default function Experience() {
   const experienceData = [
     {
       // Jan 2025 - May 2025
-      date: "",
+      date: "Jan 2021 - Aug 2022",
       role: "Frontend Developer",
       description:
         "Developed responsive user interface for computer store e-commerce platform with modern design principles using React.js",
